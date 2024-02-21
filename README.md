@@ -1,4 +1,4 @@
-# PetLife - Readme Resumido
+# PetLife 
 
 ![Print do Projeto](print.png)
 
